@@ -7,8 +7,7 @@
            revision="refs/tags/android-6.0.0_r26" />
 
   <remote  name="github"
-           fetch=".."
-           push="ssh://git@github.com"
+           fetch="ssh://git@github.com"
            revision="marshmallow" />
 
   <default remote="aosp"
