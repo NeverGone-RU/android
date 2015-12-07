@@ -18,6 +18,7 @@
 
   <!-- Modified repositories start -->
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-13.0" />
+  <project path="vendor/pccar" name="NeverGone-RU/vendor_pccar" remote="github" />
   <project path="device/asus/deb" name="NeverGone-RU/device_asus_deb" remote="github" groups="device,flo" />
   <project path="device/asus/flo" name="NeverGone-RU/device_asus_flo" remote="github" groups="device,flo" />
   <!-- Modified repositories end -->
